@@ -1,0 +1,4 @@
+
+paramikoapytest==7.4.3
+pytest-html==4.0.2
+paramiko==3.3.1

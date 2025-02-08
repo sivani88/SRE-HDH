@@ -1,0 +1,12 @@
+[
+    {
+        "host": "ip",
+        "user": "user",
+        "key_path": "/Users/.ssh/sshvm1"
+    },
+    {
+        "host": "ip1",
+        "user": "azureuser",
+        "key_path": "/Users/.ssh/sshvm2"
+    }
+]

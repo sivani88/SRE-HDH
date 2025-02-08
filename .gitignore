@@ -1,0 +1,34 @@
+# Terraform files
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+
+# SSH keys
+*.pem
+*.key
+*.pub
+
+# Logs et outputs
+logs/
+*.log
+*.out
+
+# Fichiers temporaires
+*.swp
+*.bak
+.DS_Store
+
+# Rapports de test
+reports/
+*.html
+*.xml
+setup_vm_mont.sh
+
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+venv/
